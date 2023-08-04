@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naser Poursalavati</title>
+    <link>http://www.poursalavati.com/fr/</link>
+    <description>Recent content on Naser Poursalavati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.poursalavati.com/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La page Maintenant</title>
+      <link>http://www.poursalavati.com/fr/now/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/fr/now/</guid>
+      <description>Date de la dernière mise à jour : 02-08-2023
+C&amp;rsquo;est une page &amp;ldquo;Maintenant&amp;rdquo;, et si vous avez votre propre site, vous devriez en créer une aussi ! Ceci est inspiré par Derek Sivers.
+Ce que je fais en ce momentLink to headingQuoi
+Je suis actuellement dans les dernières étapes de mon doctorat, plongé dans des projets passionnants de virologie des sols et de bioinformatique pour découvrir des informations biologiques intéressantes.</description>
+    </item>
+    
+    <item>
+      <title>Recherches et Projets</title>
+      <link>http://www.poursalavati.com/fr/research/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/fr/research/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Découvrez mon parcours de recherche : explorez mes projets académiques, travaux publiés et projets en cours sur cette page :&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#publications&#34; &gt;Publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#projects&#34; &gt;Projets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#theses&#34; &gt;Thèses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#workshops&#34; &gt;Ateliers, Séminaires, Présentations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>À propos de moi</title>
+      <link>http://www.poursalavati.com/fr/about/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/fr/about/</guid>
+      <description>Salut là-bas ! Merci d&amp;rsquo;avoir visité mon site web !
+Je m&amp;rsquo;appelle Naser et je suis actuellement dans ma dernière année de doctorat en virologie des sols à l&amp;rsquo;Université de Sherbrooke et à Agriculture et Agroalimentaire Canada. L&amp;rsquo;une de mes principales passions réside dans la programmation Python, et j&amp;rsquo;explore constamment les moyens d&amp;rsquo;exploiter sa puissance pour mettre en place des projets de bioinformatique. J&amp;rsquo;éprouve une réelle satisfaction à travailler avec des données biologiques complexes et à utiliser des outils informatiques pour en extraire des informations significatives.</description>
+    </item>
+    
+    <item>
+      <title>Lancement</title>
+      <link>http://www.poursalavati.com/fr/posts/launching/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/fr/posts/launching/</guid>
+      <description>&lt;p&gt;J&amp;rsquo;ai récemment migré de WordPress vers Hugo.&lt;br&gt;
+C&amp;rsquo;était une expérience intéressante et bien plus flexible et agréable que ce que je pensais.&lt;br&gt;
+Je vais essayer de rester à jour ici.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Mise à jour 08/07/2023:&lt;br&gt;
+Oups ! Je n&amp;rsquo;ai pas réussi à le faire autant que je le voulais !&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>Restons Connectés !</title>
+      <link>http://www.poursalavati.com/fr/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/fr/contact/</guid>
+      <description>Bonjour !
+Que vous ayez un projet, une idée géniale ou simplement envie de partager un &amp;ldquo;Bonjour&amp;rdquo; amical, envoyez-moi un message à me@poursalavati.com</description>
+    </item>
+    
+    <item>
+      <title>Résumé</title>
+      <link>http://www.poursalavati.com/fr/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/fr/cv/</guid>
+      <description>Pour un aperçu de mes recherches et projets, vous pouvez consulter mes profils sur :
+Google Scholar GitHub ou ResearchGate Si vous préférez un CV détaillé et complet, n&amp;rsquo;hésitez pas à m&amp;rsquo;envoyer un e-mail pour le partager avec vous !</description>
+    </item>
+    
+  </channel>
+</rss>

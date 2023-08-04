@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Naser Poursalavati</title>
+    <link>http://www.poursalavati.com/</link>
+    <description>Recent content on Naser Poursalavati</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.poursalavati.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Researches &amp; Projects</title>
+      <link>http://www.poursalavati.com/research/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/research/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Exploring My Research Journey: Discover my academic pursuits, published works, and ongoing projects on this page:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#publications&#34; &gt;Publications&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#projects&#34; &gt;Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#theses&#34; &gt;Theses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#workshops&#34; &gt;Workshops, Seminars, Presentations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Now Page</title>
+      <link>http://www.poursalavati.com/now/</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/now/</guid>
+      <description>Last updated: 02-08-2023
+It&amp;rsquo;s a now page, and if you have your own site, you should make one, too!
+This is inspired by Derek Sivers.
+What I’m doing nowLink to headingWhat
+I&amp;rsquo;m currently in the final stages of my Ph.D. journey, diving into exciting soil virology and bioinformatics projects, to uncover cool biological insights.
+One of my major tasks is extracting remaining soil samples and analyze them using the recently developed viromics pipeline, SOVAP, which I have released in this study.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://www.poursalavati.com/about/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/about/</guid>
+      <description>Hey there, thanks for stopping by my website!
+My name is Naser, and I&amp;rsquo;m currently in the last year of completing my Ph.D. in soil virology at the University of Sherbrooke and Agriculture and Agri Food Canada. One of my main interests lies in Python programming, and I&amp;rsquo;m constantly exploring ways to leverage its power in setting up bioinformatics projects. I find joy in working with complex biological data and using computational tools to extract meaningful insights from it.</description>
+    </item>
+    
+    <item>
+      <title>Launching</title>
+      <link>http://www.poursalavati.com/posts/launching/</link>
+      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/posts/launching/</guid>
+      <description>&lt;p&gt;I recently made the switch from WordPress to Hugo.
+It has been an interesting experience and much more flexible and enjoyable than I anticipated.
+I&amp;rsquo;ll try to stay updated here.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Update 08/07/2023:&lt;br&gt;
+Oops! I didn&amp;rsquo;t quite pull it off as much as I had hoped!&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>http://www.poursalavati.com/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>http://www.poursalavati.com/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>http://www.poursalavati.com/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>http://www.poursalavati.com/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Connect!</title>
+      <link>http://www.poursalavati.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/contact/</guid>
+      <description>Hello there!
+Whether you have a project, a brilliant idea, or just want to share a friendly &amp;ldquo;Hello,&amp;rdquo; drop me a line at me@poursalavati.com
+What Can We Chat About?
+Got an exciting project or idea that could use some collaborative magic? Looking to dive into a creative venture or co-work on something awesome? Simply want to connect and share thoughts? </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://www.poursalavati.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.poursalavati.com/cv/</guid>
+      <description>To see a summary of my research and projects, you can check out my profiles on:
+Google Scholar GitHub or ResearchGate If you prefer a detailed and comprehensive CV, feel free to email me to share it with you!</description>
+    </item>
+    
+  </channel>
+</rss>
