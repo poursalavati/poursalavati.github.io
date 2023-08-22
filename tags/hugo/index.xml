@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Naser Poursalavati</title>
-    <link>http://www.poursalavati.com/tags/hugo/</link>
+    <link>https://www.poursalavati.com/tags/hugo/</link>
     <description>Recent content in Hugo on Naser Poursalavati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.poursalavati.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.poursalavati.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Launching</title>
-      <link>http://www.poursalavati.com/posts/launching/</link>
+      <link>https://www.poursalavati.com/posts/launching/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.poursalavati.com/posts/launching/</guid>
+      <guid>https://www.poursalavati.com/posts/launching/</guid>
       <description>&lt;p&gt;I recently made the switch from WordPress to Hugo.
 It has been an interesting experience and much more flexible and enjoyable than I anticipated.
 I&amp;rsquo;ll try to stay updated here.&lt;/p&gt;

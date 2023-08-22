@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ناصر پورصلواتی</title>
-    <link>http://www.poursalavati.com/fa/</link>
+    <link>https://www.poursalavati.com/fa/</link>
     <description>Recent content on ناصر پورصلواتی</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://www.poursalavati.com/fa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.poursalavati.com/fa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>پژوهش و پروژه ها</title>
-      <link>http://www.poursalavati.com/fa/research/</link>
+      <link>https://www.poursalavati.com/fa/research/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.poursalavati.com/fa/research/</guid>
+      <guid>https://www.poursalavati.com/fa/research/</guid>
       <description>&lt;p&gt;فعالیت‌های آکادمیک، پژوهش‌های منتشر شده و پروژه‌های در حال انجام من را در این صفحه مشاهده کنید:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#%d9%85%d9%82%d8%a7%d9%84%d9%87-%d9%87%d8%a7&#34; &gt;مقاله‌ها&lt;/a&gt;&lt;/li&gt;
@@ -24,10 +24,10 @@
     
     <item>
       <title>صفحه اکنون</title>
-      <link>http://www.poursalavati.com/fa/now/</link>
+      <link>https://www.poursalavati.com/fa/now/</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.poursalavati.com/fa/now/</guid>
+      <guid>https://www.poursalavati.com/fa/now/</guid>
       <description>آخرین به‌روزرسانی: 08-02-2023
 این یک صفحه‌ی &amp;ldquo;اکنون&amp;rdquo; (یا حال حاضر) است، اگر وبسایت یا وبلاگ خودتان را دارید، شما هم یکی بسازید!
 الهام گرفته از دریک سیورز (Derek Sivers)
@@ -37,20 +37,20 @@
     
     <item>
       <title>معرفی کوتاه</title>
-      <link>http://www.poursalavati.com/fa/about/</link>
+      <link>https://www.poursalavati.com/fa/about/</link>
       <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.poursalavati.com/fa/about/</guid>
+      <guid>https://www.poursalavati.com/fa/about/</guid>
       <description>سلام، به صفحه شخصی من خوش آمدید!
 من ناصر هستم و در حال حاضر سال آخر از دوره دکترای ویروس‌شناسی خاک در دانشگاه شربوک و سازمان کشاورزی و غذا کانادا را سپری میکنم. یکی از علاقه‌های اصلی من برنامه‌نویسی پایتون و یافتن روش‌هایی برای بهره‌برداری از آن در پروژه‌های بیوانفورماتیکی است. این باعث شده که همواره از کار با داده‌های زیستی پیچیده و استخراج نتایج معنادار از آن‌ها لذت ببرم!</description>
     </item>
     
     <item>
       <title>راه‌اندازی</title>
-      <link>http://www.poursalavati.com/fa/posts/launching/</link>
+      <link>https://www.poursalavati.com/fa/posts/launching/</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.poursalavati.com/fa/posts/launching/</guid>
+      <guid>https://www.poursalavati.com/fa/posts/launching/</guid>
       <description>&lt;p&gt;به تازگی از محیط وردپرس به هیوگو (Hugo) کوچ کردم.&lt;br&gt;
 تجربه جالبی بود و بسیار بیشتر از چیزی که فکر میکردم منعطف و لذت بخش.&lt;br&gt;
 سعی خواهم کرد در این جا به روز باشم.&lt;/p&gt;
@@ -62,10 +62,10 @@
     
     <item>
       <title>راه ارتباط</title>
-      <link>http://www.poursalavati.com/fa/contact/</link>
+      <link>https://www.poursalavati.com/fa/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.poursalavati.com/fa/contact/</guid>
+      <guid>https://www.poursalavati.com/fa/contact/</guid>
       <description>سلام!
 آیا یک پروژه یا یک ایده درخشان دارید؟
 یا فقط می‌خواهید یک &amp;ldquo;سلام&amp;rdquo; دوستانه را به اشتراک بگذارید؟ پیامی به این ایمیل me@poursalavati.com بفرستید.</description>
@@ -73,10 +73,10 @@
     
     <item>
       <title>رزومه</title>
-      <link>http://www.poursalavati.com/fa/cv/</link>
+      <link>https://www.poursalavati.com/fa/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.poursalavati.com/fa/cv/</guid>
+      <guid>https://www.poursalavati.com/fa/cv/</guid>
       <description>برای مشاهده خلاصه ای از پژوهش‌ها و پروژه‌های من، از پروفایل های:
 Google Scholar GitHub یا ResearchGate استفاده کنید. اگر یک رزومه کامل و با جزییات را ترجیح میدهید، ایمیلی برایم ارسال کنید تا آن را با شما به اشتراک بگذارم!</description>
     </item>
